@@ -1,0 +1,14 @@
+body {
+  background: #66d6ff;
+}
+
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#meh {
+  display: flex;
+  justify-content: center;
+}
